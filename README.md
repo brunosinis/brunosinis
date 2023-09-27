@@ -14,6 +14,21 @@ Estou iniciando o apredizado em:
 - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo">
 <br>
 <br>
+Connect with me:
+
+<p> 
+<a href="https://www.linkedin.com/in/bruno-de-souza-80505a26b"/>
+<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+</a>
+</p>
+<br>
+<br>
+
+<p align=left"> 
+<br>
+  Languages and Tools:
+</p>
+<br>
 
 [![Bruno Stats](https://github-readme-stats.vercel.app/api?username=brunosinis)](https://github.com/anuraghazra/github-readme-stats)
 <br>
