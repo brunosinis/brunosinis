@@ -1,4 +1,4 @@
-### Hi there 😎 
+### Hi there 👋😎 
 
 💻 Eu sou Bruno Sinis, sou um programdor Front End, atualmente estou aprendendo e criando projetos com:
 <br>
